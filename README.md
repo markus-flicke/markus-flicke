@@ -6,7 +6,7 @@ NLP PhD student at the University of Tübingen, Germany.
 
 📍 Tübingen, Germany
 
-📫 Reach me at markus [dot] flicke [dot] marburg [at] gmail [dot] com
+📫 Reach me at: markus [dot] flicke [dot] marburg [at] gmail [dot] com
 
 ---
 
