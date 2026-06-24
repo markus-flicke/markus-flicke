@@ -1,6 +1,6 @@
 # Hi, I'm Markus 👋
 
-NLP PhD student at the University of Tübingen, Germany.
+NLP PhD student at the University of Tübingen and the Max Planck Institute for Intelligent Systems.
 
 🔬 Natural Language Processing · 🤖 Machine Learning · 📊 Data Mining · 🎯 Recommender Systems
 
