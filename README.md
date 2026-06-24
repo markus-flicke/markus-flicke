@@ -2,7 +2,7 @@
 
 NLP PhD student at the University of Tübingen, Germany.
 
-🔬 Natural Language Processing · 🤖 Machine Learning · 📊 Data Mining
+🔬 Natural Language Processing · 🤖 Machine Learning · 📊 Data Mining · 🎯 Recommender Systems
 
 📍 Tübingen, Germany
 
@@ -33,10 +33,6 @@ NLP PhD student at the University of Tübingen, Germany.
 - [alphabetical_ordering](https://github.com/markus-flicke/alphabetical_ordering) — Reorders Windows Explorer folders into alphabetical order.
 
 ---
-
-## 📈 Contribution History
-
-[![Markus's GitHub contribution graph](https://ghchart.rshah.org/markus-flicke)](https://github.com/markus-flicke)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markus-flicke&layout=compact&hide_border=true)
 
