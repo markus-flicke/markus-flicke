@@ -6,6 +6,8 @@ NLP PhD student at the University of Tübingen, Germany.
 
 📍 Tübingen, Germany
 
+📫 Reach me at **markus.flicke.marburg@gmail.com**
+
 ---
 
 ## 🚀 Featured Projects
@@ -35,7 +37,3 @@ NLP PhD student at the University of Tübingen, Germany.
 ---
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markus-flicke&layout=compact&hide_border=true)
-
----
-
-📫 Reach me at **markus.flicke.marburg@gmail.com**
