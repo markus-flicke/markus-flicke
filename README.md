@@ -1,6 +1,6 @@
-# Hi, I'm Markus Flicke 👋
+# Hi, I'm Markus 👋
 
-NLP PhD student at the University of Tübingen, Germany. Happily chugging away at some uni work.
+NLP PhD student at the University of Tübingen, Germany.
 
 🔬 Natural Language Processing · 🤖 Machine Learning · 📊 Data Mining
 
@@ -10,14 +10,14 @@ NLP PhD student at the University of Tübingen, Germany. Happily chugging away a
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-| --- | --- |
-| [say_no](https://github.com/markus-flicke/say_no) ⭐4 | A simple OpenAI API wrapper that helps you say "no" to distractions and focus on what matters. |
-| [zero_fees_etf](https://github.com/markus-flicke/zero_fees_etf) ⭐1 | A tiny tool for building your own index fund out of individual stocks, without paying ETF management fees. |
-| [ESOM](https://github.com/markus-flicke/ESOM) | My own implementation of an Emergent Self-Organising Map, inspired by Professor Ultsch's Knowledge Discovery course at the University of Marburg. |
-| [nebius](https://github.com/markus-flicke/nebius) | "Tool as a Service" — a platform where every tool publishes the conditions under which it works alongside a *measured* success rate computed from real runs. |
-| [DataMiningCompetition](https://github.com/markus-flicke/DataMiningCompetition) ⭐1 | My entry to the Tübingen University Data Mining & Probabilistic Reasoning competition. |
-| [box_scraper](https://github.com/markus-flicke/box_scraper) ⭐1 | A web scraper for collecting structured data. |
+| Project | First Commit | Description |
+| --- | --- | --- |
+| [Nebius Hackathon](https://github.com/markus-flicke/nebius) | 2026-06-24 | "Tool as a Service" — a platform where every tool publishes the conditions under which it works alongside a *measured* success rate computed from real runs. |
+| [Zero Fees ETF](https://github.com/markus-flicke/zero_fees_etf) | 2026-06-17 | A tiny tool for building your own index fund out of individual stocks, without paying ETF management fees. |
+| [Say No](https://github.com/markus-flicke/say_no) | 2025-11-24 | A simple OpenAI API wrapper that helps you say "no" to distractions and focus on what matters. |
+| [Box Scraper](https://github.com/markus-flicke/box_scraper) | 2023-02-15 | A web scraper for collecting structured data. |
+| [Data Mining Competition](https://github.com/markus-flicke/DataMiningCompetition) | 2020-01-20 | My entry to the Tübingen University Data Mining & Probabilistic Reasoning competition. |
+| [ESOM](https://github.com/markus-flicke/ESOM) | 2018-09-17 | My own implementation of an Emergent Self-Organising Map, inspired by Professor Ultsch's Knowledge Discovery course at the University of Marburg. |
 
 ---
 
@@ -37,8 +37,6 @@ NLP PhD student at the University of Tübingen, Germany. Happily chugging away a
 ## 📈 Contribution History
 
 [![Markus's GitHub contribution graph](https://ghchart.rshah.org/markus-flicke)](https://github.com/markus-flicke)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=markus-flicke&show_icons=true&hide_border=true&count_private=true)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markus-flicke&layout=compact&hide_border=true)
 
